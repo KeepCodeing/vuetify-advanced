@@ -5,7 +5,7 @@
       tile
     >
       <v-img
-        src="../../assets/images/img3.jpg"
+        src="https://gitee.com/hwz-magicweb/vuetify-advanced/raw/master/images/img5.jpg"
         height="380"
         gradient="to top right, rgba(100,115,201,.33), rgba(25,32,72,.7)"
       >
