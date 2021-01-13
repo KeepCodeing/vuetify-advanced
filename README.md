@@ -1,4 +1,4 @@
-[演示页面](https://wishyouwerehere.rthe.xyz/home)
+[演示页面](https://wishyouwerehere.rthe.xyz)
 
 # vuetify-photo
 
