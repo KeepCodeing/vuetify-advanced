@@ -27,9 +27,9 @@
     data() {
       return {
         items: [
-          { image: require('../../assets/images/role1.jpg'), name: 'UDK', role: 'Marisa' },
-          { image: require('../../assets/images/role2.jpg'), name: 'HNS', role: 'Alice' },
-          { image: require('../../assets/images/role3.png'), name: 'RU', role: 'Reimu' },
+          { image: 'https://gitee.com/hwz-magicweb/vuetify-advanced/raw/master/images/img7.jpg', name: 'UDK', role: 'Marisa' },
+          { image: 'https://gitee.com/hwz-magicweb/vuetify-advanced/raw/master/images/img8.jpg', name: 'HNS', role: 'Alice' },
+          { image: 'https://gitee.com/hwz-magicweb/vuetify-advanced/raw/master/images/img9.jpg', name: 'RU', role: 'Reimu' },
         ]
       }
     }

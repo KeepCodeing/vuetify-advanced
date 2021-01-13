@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-img height="368" src="../../assets/images/img3.jpg">
+    <v-img height="368" src='https://gitee.com/hwz-magicweb/vuetify-advanced/raw/master/images/img5.jpg'>
       <v-row align="end" class="white--text pa-2 fill-height">
         <v-col>
           <v-container>

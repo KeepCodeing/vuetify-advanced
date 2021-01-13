@@ -49,9 +49,9 @@
     data() {
       return {
         recently_data: [
-          { image: require('../../assets/images/img1.jpg'), content: 'Waiting for someone or sometime show you the way...' },
-          { image: require('../../assets/images/img2.jpg'), content: 'So, so you think can tell, heaven form hell, blue skies form pain...' },
-          { image: require('../../assets/images/img3.jpg'), content: 'Hello, is anybody in there, just nod if you can hear me, is anyone home...' },
+          { image: 'https://gitee.com/hwz-magicweb/vuetify-advanced/raw/master/images/img4.jpg', content: 'Waiting for someone or sometime show you the way...' },
+          { image: 'https://gitee.com/hwz-magicweb/vuetify-advanced/raw/master/images/img5.jpg', content: 'So, so you think can tell, heaven form hell, blue skies form pain...' },
+          { image: 'https://gitee.com/hwz-magicweb/vuetify-advanced/raw/master/images/img6.jpg', content: 'Hello, is anybody in there, just nod if you can hear me, is anyone home...' },
         ]
       }
     }

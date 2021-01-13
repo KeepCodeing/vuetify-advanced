@@ -26,9 +26,9 @@
     data() {
       return {
         images: [
-          { src: require('../../assets/images/carousel1.jpg'), title: 'Wish You Were Here', id: 101 },
-          { src: require('../../assets/images/carousel2.jpg'), title: 'Comfortably Numb', id: 102 },
-          { src: require('../../assets/images/carousel3.jpg'), title: 'No Way Escape', id: 103 },
+          { src: 'https://gitee.com/hwz-magicweb/vuetify-advanced/raw/master/images/img1.jpg', title: 'Wish You Were Here', id: 101 },
+          { src: 'https://gitee.com/hwz-magicweb/vuetify-advanced/raw/master/images/img2.jpg', title: 'Comfortably Numb', id: 102 },
+          { src: 'https://gitee.com/hwz-magicweb/vuetify-advanced/raw/master/images/img4.jpg', title: 'No Way Escape', id: 103 },
         ],
       }
     }
